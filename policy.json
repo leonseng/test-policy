@@ -10,6 +10,9 @@
     "template": {
       "name": "POLICY_TEMPLATE_FUNDAMENTAL"
     },
+    "general": {
+      "trustXff": true
+    },
     "type": "security"
   }
 }
