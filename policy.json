@@ -1,8 +1,15 @@
 {
   "policy": {
-    "name": "Complete_OWASP_Top_Ten",
-    "description": "A generic, OWASP Top 10 protection items v1.0",
+    "applicationLanguage": "utf-8",
+    "caseInsensitive": false,
+    "description": "Fundamental Policy",
+    "enablePassiveMode": false,
+    "enforcementMode": "blocking",
+    "name": "as3_waf",
+    "protocolIndependent": false,
     "template": {
-      "name": "POLICY_TEMPLATE_RAPID_DEPLOYMENT"
-    }
+      "name": "POLICY_TEMPLATE_FUNDAMENTAL"
+    },
+    "type": "security"
+  }
 }
