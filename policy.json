@@ -11,7 +11,10 @@
       "name": "POLICY_TEMPLATE_FUNDAMENTAL"
     },
     "general": {
-      "trustXff": true
+      "allowedResponseCodes": [
+        400
+      ],
+      "trustXff": false
     },
     "type": "security"
   }
