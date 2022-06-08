@@ -1,7 +1,7 @@
 {
   "policy": {
     "applicationLanguage": "utf-8",
-    "caseInsensitive": false,
+    "caseInsensitive": true,
     "description": "Fundamental Policy",
     "enablePassiveMode": false,
     "enforcementMode": "blocking",
