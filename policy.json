@@ -1,0 +1,8 @@
+{
+  "policy": {
+    "name": "Complete_OWASP_Top_Ten",
+    "description": "A generic, OWASP Top 10 protection items v1.0",
+    "template": {
+      "name": "POLICY_TEMPLATE_RAPID_DEPLOYMENT"
+    }
+}
